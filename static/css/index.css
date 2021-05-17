@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    justify-content: center;
+}
+
+.back-button {
+    background-color: #a31f34;
+    border-color: #a31f34;
+}
+
+.header-text {
+    font-size: 90px;
+}
+
+.page {
+    display: flex;
+    background-color: #bfbfbf;
+    justify-content: center;
+}
+
+.page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.upload-button {
+    background-color: #a31f34;
+    border-color: #a31f34;
+    margin: 5px;
+}
